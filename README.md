@@ -2,7 +2,7 @@
 
 Multicast Testing Tool is compatible with Windows, Linux and Mac OS operating systems.
 
-Out of frustration at the absence of utilities written for Windows and Mac OS that test
+Out of frustration with the absence of utilities written for Windows and Mac OS that test
 multicast connectivity across a PIM routed network, I decided to dive into C socket
 programming and learn as much as possible within one month, during which I needed a way
 of testing bidirectional multicast flow between Amazon's AWS cloud and bare metal. The
