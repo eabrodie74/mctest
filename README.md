@@ -1,5 +1,5 @@
-#mctest.c - IPv4 Multicast Testing Tool
-#Author: Evan Brodie (eabrodie74)
+mctest.c - IPv4 Multicast Testing Tool
+Author: Evan Brodie (eabrodie74)
 
 Multicast Testing Tool is compatible with Windows, Linux and Mac OS operating systems.
 
